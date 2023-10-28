@@ -1,0 +1,37 @@
+@media screen and (max-width: 480px) {
+	   #menu,button.c-hamburger.c-hamburger--htx{
+    display:block;
+}
+    a.navbar-brand {
+    position: absolute;
+    left: 41%;
+}
+header.px-2.py-3.py-lg-0.px-sm-0{
+        padding: 8px 2em !important;
+}
+}
+
+@media only screen  and (max-width: 676px) and (min-width: 481px){
+   #menu,button.c-hamburger.c-hamburger--htx{
+    display:block;
+}
+    a.navbar-brand {
+    position: absolute;
+    left: 41%;
+}
+header.px-2.py-3.py-lg-0.px-sm-0{
+        padding: 8px 2em !important;
+}
+}
+@media only screen  and (max-width: 980px) and (min-width: 678px){
+    #menu,button.c-hamburger.c-hamburger--htx{
+    display:block;
+}
+    a.navbar-brand {
+    position: absolute;
+    left: 41%;
+}
+header.px-2.py-3.py-lg-0.px-sm-0{
+        padding: 8px 2em !important;
+}
+}
